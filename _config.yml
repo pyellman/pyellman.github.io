@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : # &twitter
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "I now truly own this sidecar"
+  name             : "Site Author name goes here"
   avatar           : "profile.png"
-  bio              : "Make Twitter disappear"
+  bio              : "This time it will work, bio"
   location         : "Tatooine"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
