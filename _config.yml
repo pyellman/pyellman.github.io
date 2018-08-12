@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Super shiney new website"
+title                    : "I feel like this should be the site title"
 title_separator          : "-"
 name                     : &name "Tribal Chieftain"
 description              : &description "Chief among Chieves"
